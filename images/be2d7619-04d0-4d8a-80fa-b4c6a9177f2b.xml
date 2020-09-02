@@ -1,0 +1,1 @@
+<annotation><folder>xcontrle</folder><filename>be2d7619-04d0-4d8a-80fa-b4c6a9177f2b.jpg</filename><size><width>225</width><height>225</height><depth>3</depth></size><object><name>remote control</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>66</xmin><ymin>3</ymin><xmax>170</xmax><ymax>225</ymax></bndbox></object></annotation>
