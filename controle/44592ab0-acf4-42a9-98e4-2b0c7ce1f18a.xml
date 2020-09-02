@@ -1,0 +1,1 @@
+<annotation><folder>controlex</folder><filename>44592ab0-acf4-42a9-98e4-2b0c7ce1f18a.jpg</filename><size><width>225</width><height>225</height><depth>3</depth></size><object><name>remote control</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>93</xmin><ymin>51</ymin><xmax>131</xmax><ymax>178</ymax></bndbox></object></annotation>
