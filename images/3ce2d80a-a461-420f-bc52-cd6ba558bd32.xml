@@ -1,0 +1,1 @@
+<annotation><folder>opik</folder><filename>3ce2d80a-a461-420f-bc52-cd6ba558bd32.jpg</filename><size><width>700</width><height>700</height><depth>3</depth></size><object><name>mouse</name><pose>Unspecified</pose><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>55</xmin><ymin>101</ymin><xmax>651</xmax><ymax>638</ymax></bndbox></object></annotation>
